@@ -28,5 +28,4 @@ This project is a **Retrieval-Augmented Generation (RAG) chatbot** for Atyantik 
 
 
 
-## 📁 Project Structure
 
